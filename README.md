@@ -1,22 +1,28 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=StussyPy&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=StussyPy&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Crafting%20Digital%20Excellence%20with%20Python&descAlignY=55&descSize=20"/>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2B91FF&center=true&vCenter=true&width=435&lines=Bienvenue+sur+mon+profil+!+🚀;Python+Maestro+🐍;Artisan+du+Code+💻;Créateur+Passionné+⚡" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2B91FF&center=true&vCenter=true&width=500&lines=Bienvenue+sur+mon+profil+!+🚀;Python+Maestro+🐍;Artisan+du+Code+💻;Créateur+Passionné+⚡;Innovateur+Digital+🌟" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
   
-  ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=StussyPy&theme=tokyonight&no-frame=true&column=4&no-bg=true)
+  [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=StussyPy&theme=tokyonight&no-frame=true&column=4&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
-### 🌟 À propos de moi
-
 <div align="center">
-  <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+<h2> 🌟 À propos de moi </h2>
+
+<img align="right" height="270px" width="400px" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 ```python
 class PythonMaestro:
@@ -43,44 +49,19 @@ me = PythonMaestro()
 me.daily_routine()
 ```
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<h2> 🎨 Mon arsenal technique </h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,docker,aws,git,postgres,redis,linux,vscode,nginx,kubernetes&perline=6" />
+</div>
+
+<details>
+<summary>🔥 Plus de compétences</summary>
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</div>
-
-### 🎨 Mon arsenal technique
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,docker,aws,git,postgres,redis,linux,vscode&perline=5" />
-</div>
-
-### 📊 Mes statistiques
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=StussyPy&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true"/>
-      </td>
-      <td>
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StussyPy&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🎯 Projets épiques
-
-<div align="center">
-  <a href="https://github.com/StussyPy/YourRepo1">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=StussyPy&repo=YourRepo1&theme=tokyonight&bg_color=0D1117&hide_border=true">
-  </a>
-  <a href="https://github.com/StussyPy/YourRepo2">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=StussyPy&repo=YourRepo2&theme=tokyonight&bg_color=0D1117&hide_border=true">
-  </a>
-</div>
-
-### 🌈 Ma palette de compétences
 
 <div align="center">
   
@@ -92,23 +73,58 @@ me.daily_routine()
   ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)
   
 </div>
-
-### 🎵 Coding Playlist
+</details>
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=VOTRE_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&bar_color=53b14f&bar_color_cover=true">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<h2> 📊 Contribution Metrics </h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StussyPy&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=StussyPy&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&rank_icon=github"/>
+      </td>
+      <td>
+        <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StussyPy&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2> 🌟 Projets Épiques </h2>
+
+<div align="center">
+  <a href="https://github.com/StussyPy/YourRepo1">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=StussyPy&repo=YourRepo1&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/StussyPy/YourRepo2">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=StussyPy&repo=YourRepo2&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ### 📫 Contact
 
 <div align="center">
-  <a href="https://discord.com/users/stussypy" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <a href="https://discord.com/users/stussypy">
+    <img src="https://lanyard.cnrad.dev/api/1188021635396161559" alt="Discord Presence" width="400"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
-  ![](https://komarev.com/ghpvc/?username=StussyPy&color=blueviolet&style=for-the-badge&label=VISITEURS)
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Let's%20Create%20Something%20Amazing&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=gradient"/>
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/StussyPy/count.svg" />
 </div>
