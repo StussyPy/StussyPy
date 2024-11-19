@@ -44,7 +44,7 @@ class PythonMaestro:
     def daily_routine(self):
         while self.is_awake():
             self.drink_coffee()
-            self.create_amazing_things()
+            self.create_amazing_things() 
             self.push_to_github()
             if self.is_stuck():
                 self.drink_more_coffee()
