@@ -15,9 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> 
-  <strong>Quick Links</strong> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" />
+  <img src="https://img.shields.io/badge/🚀 Quick Links-100000?style=for-the-badge" alt="Quick Links"/>
 </div>
 
 <div align="center">
@@ -74,11 +72,7 @@ me.daily_routine()
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 </div>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
-  Skills & Tools
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
-</h2>
+<h2 align="center">⚡ Skills & Tools ⚡</h2>
 
 <div align="center">
   <details>
@@ -138,18 +132,6 @@ me.daily_routine()
 </div>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />
-  Derniers Articles
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />
-</h2>
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python Design Patterns-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Advanced Django Tips-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Clean Code in Python-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-</div>
-
-<h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   Projets Épiques
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
@@ -164,18 +146,24 @@ me.daily_routine()
   </a>
 </div>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />
-  Current Stack
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />
-</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+</div>
+
+<h2 align="center">🔧 Current Stack</h2>
 
 <div align="center">
-  <img src="https://readme-components.vercel.app/api?component=experience&company=PYTHON%20EXPERT&role=Senior%20Developer&duration=5y&location=France&theme=dark">
+  <img src="https://img.shields.io/badge/Role-Senior Python Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-5 Years+-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-France-red?style=for-the-badge" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+  <h2>🎮 Fun Facts</h2>
+  <img src="https://img.shields.io/badge/🌅 Morning Person-70%25-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌙 Night Owl-50%25-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/☕ Coffee Cups%2FDay-5-brown?style=flat-square" />
+  <img src="https://img.shields.io/badge/💻 Code Time%2FDay-8hrs-green?style=flat-square" />
 </div>
 
 <h2 align="center">
@@ -188,23 +176,6 @@ me.daily_routine()
   <a href="https://discord.com/users/1188021635396161559">
     <img src="https://lanyard-profile-readme.vercel.app/api/1188021635396161559?theme=dark&bg=0D1117&borderRadius=30px&idleMessage=Probablement%20en%20train%20de%20coder..." alt="Discord Presence"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
-  <strong>Fun Facts</strong>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
-</div>
-
-<div align="center">
-  
-  ```text
-  🌅 Morning Person    ███████████░░░░░   70.0% 
-  🌙 Night Owl         ████████░░░░░░░░   50.0%
-  ☕ Coffee Cups/Day   ████████░░░░░░░░   5
-  💻 Code Time/Day     ██████████░░░░░░   8hrs
-  ```
-  
 </div>
 
 <div align="center">
