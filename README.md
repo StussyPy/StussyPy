@@ -45,12 +45,6 @@ me.daily_routine()
 
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</div>
-
-### 🎨 Mon arsenal technique
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,docker,aws,git,postgres,redis,linux,vscode&perline=5" />
 </div>
 
