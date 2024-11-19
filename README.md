@@ -50,7 +50,7 @@ me.say_hi()
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StussyPy&layout=compact&theme=tokyonight)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StussyPy&theme=tokyonight)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StussyPy&theme=tokyonight)](https://git.io/streak-stats)
   
 </div>
 
@@ -65,7 +65,9 @@ me.say_hi()
 
 ### 🌱 Contributions
 
-![Snake animation](https://github.com/StussyPy/StussyPy/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/StussyPy/StussyPy/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ### 📫 Me contacter
 
@@ -89,6 +91,6 @@ while True:
 
 <div align="center">
   
-  ![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=StussyPy.StussyPy)
+  ![](https://komarev.com/ghpvc/?username=StussyPy&color=blue&style=flat-square&label=PROFILE+VIEWS)
   
 </div>
