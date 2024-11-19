@@ -1,5 +1,9 @@
+Je vais créer une version encore plus unique et stylée de votre profil, en mettant l'accent sur des éléments visuels originaux.
+
+
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=StussyPy&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Python%20Architect%20%26%20Code%20Artist&descAlignY=55&descSize=25"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=StussyPy&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
 </div>
 
 <h1 align="center">
@@ -44,6 +48,12 @@ me.daily_routine()
 ```
 
 <br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
+
+### 🎨 Mon arsenal technique
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,docker,aws,git,postgres,redis,linux,vscode&perline=5" />
 </div>
@@ -102,7 +112,7 @@ me.daily_routine()
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
   ![](https://komarev.com/ghpvc/?username=StussyPy&color=blueviolet&style=for-the-badge&label=VISITEURS)
 </div>
