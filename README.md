@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2B91FF&center=true&vCenter=true&random=false&width=500&lines=Bienvenue+sur+mon+profil+!+%F0%9F%9A%80;Python+Maestro+%F0%9F%90%8D;Artisan+du+Code+%F0%9F%92%BB;Cr%C3%A9ateur+Passionn%C3%A9+%E2%9A%A1;Innovateur+Digital+%F0%9F%8C%9F" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2B91FF&center=true&vCenter=true&random=false&width=500&lines=Bienvenue%20sur%20mon%20profil%20!;Python%20Maestro;Artisan%20du%20Code;Créateur%20Passionné;Innovateur%20Digital" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -11,9 +11,7 @@
 </div>
 
 <div align="center">
-  
-  ![](https://github-trophies.vercel.app/?username=StussyPy&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=4)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=StussyPy&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=4"/>
 </div>
 
 <div align="center">
@@ -27,7 +25,7 @@
 </h2>
 
 <div align="center">
-  <img align="right" height="270px" alt="Coding Animation" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+  <img align="right" height="270px" alt="Coding Animation" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 </div>
 
 ```python
@@ -95,7 +93,7 @@ me.daily_routine()
         <img width="400px" src="https://github-readme-stats.vercel.app/api?username=StussyPy&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&rank_icon=github"/>
       </td>
       <td>
-        <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=StussyPy&theme=tokyonight&hide_border=true&background=0D1117"/>
+        <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StussyPy&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true"/>
       </td>
     </tr>
   </table>
@@ -122,13 +120,13 @@ me.daily_routine()
 
 <h2 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="35">
-  Connect with Me
+  Contact
   <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="35">
 </h2>
 
 <div align="center">
   <a href="https://discord.com/users/1188021635396161559">
-    <img src="https://lanyard.kyrie25.me/api/StussyPy?waveColor=8B8BFA&waveSpotifyColor=B48EF7&hideDiscrim=true&borderRadius=30px&idleMessage=Probablement%20en%20train%20de%20coder...&bg=000000" alt="Discord Presence"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/1188021635396161559?theme=dark&bg=0D1117&borderRadius=30px&idleMessage=Probablement%20en%20train%20de%20coder..." alt="Discord Presence"/>
   </a>
 </div>
 
@@ -137,5 +135,5 @@ me.daily_routine()
 </div>
 
 <div align="center">
-  <a href="https://u8views.com/github/StussyPy"><img src="https://u8views.com/api/v1/github/profiles/StussyPy/views/day-week-month-total-count.svg"></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStussyPy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visiteurs&edge_flat=false">
 </div>
