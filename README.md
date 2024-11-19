@@ -1,7 +1,3 @@
-Je vais créer une version encore plus unique et stylée de votre profil, en mettant l'accent sur des éléments visuels originaux.
-
-
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=StussyPy&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
 </div>
