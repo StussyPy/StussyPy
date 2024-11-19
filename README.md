@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=StussyPy&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=StussyPy&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Python%20Architect%20%26%20Code%20Artist&descAlignY=55&descSize=25"/>
 </div>
 
 <h1 align="center">
@@ -108,7 +108,7 @@ me.daily_routine()
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
   
   ![](https://komarev.com/ghpvc/?username=StussyPy&color=blueviolet&style=for-the-badge&label=VISITEURS)
 </div>
