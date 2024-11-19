@@ -15,7 +15,24 @@
 </div>
 
 <div align="center">
-  <img height="50" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> 
+  <strong>Quick Links</strong> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" />
+</div>
+
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank">
+  </a>
+  <img src="https://img.shields.io/badge/Python Expert-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Open to Work-00B812?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
+</div>
+
+<div align="center">
+  <img height="50" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <h2 align="center"> 
@@ -58,16 +75,37 @@ me.daily_routine()
 </div>
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> 
-  Mon arsenal technique
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
+  Skills & Tools
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,docker,aws,git,postgres,redis,linux,vscode,nginx,kubernetes,graphql,mongodb&perline=7" />
+  <details>
+    <summary><b>🔥 Languages</b></summary>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=python,js,typescript,golang,rust&perline=5" />
+  </details>
+
+  <details>
+    <summary><b>⚡ Framework & Libraries</b></summary>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,vue&perline=5" />
+  </details>
+
+  <details>
+    <summary><b>🌩 Database & Cloud</b></summary>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,gcp&perline=5" />
+  </details>
+
+  <details>
+    <summary><b>🔧 DevOps & Tools</b></summary>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gitlab,github&perline=5" />
+  </details>
 </div>
 
-<!-- Statistiques animées -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   Statistiques
@@ -100,6 +138,18 @@ me.daily_routine()
 </div>
 
 <h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />
+  Derniers Articles
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />
+</h2>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python Design Patterns-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Advanced Django Tips-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Clean Code in Python-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+</div>
+
+<h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   Projets Épiques
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
@@ -112,6 +162,16 @@ me.daily_routine()
   <a href="https://github.com/StussyPy/YourRepo2">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=StussyPy&repo=YourRepo2&theme=tokyonight&bg_color=0D1117&hide_border=true" />
   </a>
+</div>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />
+  Current Stack
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />
+</h2>
+
+<div align="center">
+  <img src="https://readme-components.vercel.app/api?component=experience&company=PYTHON%20EXPERT&role=Senior%20Developer&duration=5y&location=France&theme=dark">
 </div>
 
 <div align="center">
@@ -128,6 +188,23 @@ me.daily_routine()
   <a href="https://discord.com/users/1188021635396161559">
     <img src="https://lanyard-profile-readme.vercel.app/api/1188021635396161559?theme=dark&bg=0D1117&borderRadius=30px&idleMessage=Probablement%20en%20train%20de%20coder..." alt="Discord Presence"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
+  <strong>Fun Facts</strong>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
+</div>
+
+<div align="center">
+  
+  ```text
+  🌅 Morning Person    ███████████░░░░░   70.0% 
+  🌙 Night Owl         ████████░░░░░░░░   50.0%
+  ☕ Coffee Cups/Day   ████████░░░░░░░░   5
+  💻 Code Time/Day     ██████████░░░░░░   8hrs
+  ```
+  
 </div>
 
 <div align="center">
